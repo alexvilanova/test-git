@@ -11,4 +11,5 @@ Aquest es un exercici de git i markdown. Afegirem a aquest projecte una **web** 
 * publicar la web a git
 
 I ara la foto d'un *gatete*:
+
 ![foto d'un gat](./54d61d9b-2e1a-4d27-a522-b9083d3fe9fb.jpeg)
